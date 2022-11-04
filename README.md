@@ -1,3 +1,3 @@
 # Eye-Movements
 Two eyes following the cursor. 
-<img src="eyes.jpg" width='300'/>
+<img src="Eye-Movements/eyes.jpg" width='300'/>
