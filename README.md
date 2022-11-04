@@ -1,4 +1,4 @@
 # Eye-Movements
 ## Two eyes following the cursor. 
 
-<img src="Eyes.jpg" width=20%/>
+<img src="Eyes.jpg" width=30%/>
