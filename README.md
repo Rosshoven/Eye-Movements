@@ -1,2 +1,3 @@
 # Eye-Movements
-Eyes following the cursor. 
+Two eyes following the cursor. 
+
