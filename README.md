@@ -3,7 +3,7 @@
 <img src="Eyes.jpg" width='300'/>
 
 # Usage 
-## Open index.html file. 
+## Open index.html file
 
 # Future Improvments
 <ol> 
