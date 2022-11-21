@@ -1,5 +1,5 @@
 # Eye-Movements
-## Two eyes following the cursor. 
+## Two eyes that follow your cursor's movement while moving around the page. If your cursor goes off the page then the eyes will freeze from where your cursor last was on the page. 
 <img src="Eyes.jpg" width='300'/>
 
 # Usage 
